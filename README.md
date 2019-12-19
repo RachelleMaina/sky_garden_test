@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/RachelleMaina/sky_garden_test.svg?branch=master)](https://travis-ci.com/RachelleMaina/sky_garden_test) [![Maintainability](https://api.codeclimate.com/v1/badges/e3d31f1e873ef2d3fcff/maintainability)](https://codeclimate.com/github/RachelleMaina/sky_garden_test/maintainability) [![Coverage Status](https://coveralls.io/repos/github/RachelleMaina/sky_garden_test/badge.svg?branch=master)](https://coveralls.io/github/RachelleMaina/sky_garden_test?branch=master)
+[![Build Status](https://travis-ci.com/RachelleMaina/sky_garden_test.svg?branch=master)](https://travis-ci.com/RachelleMaina/sky_garden_test) [![Coverage Status](https://coveralls.io/repos/github/RachelleMaina/sky_garden_test/badge.svg?branch=master)](https://coveralls.io/github/RachelleMaina/sky_garden_test?branch=master)
 
 # Sky.Garden Test.
 
